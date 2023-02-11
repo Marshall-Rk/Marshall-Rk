@@ -2,21 +2,21 @@
 <h3 align="justify" style="font-size:16px;font-weight: lighter;">
     <ul>
         <li>
-        • Executive Web Developer & Graphic Designer with 2.7 years of previous experience in the field, profound UI/UX Designer, Email / Social Media marketer & Power BI Data Analyst.</li>
+        Executive Web Developer & Graphic Designer with 2.7 years of previous experience in the field, profound UI/UX Designer, Email / Social Media marketer & Power BI Data Analyst.</li>
         <li>
-        • I make Fluid and Interactive Websites & Web applications that are tailor-made for all business needs. I make sure that it not only looks Flawless but also functions Seamlessly.</li>
+        I make Fluid and Interactive Websites & Web applications that are tailor-made for all business needs. I make sure that it not only looks Flawless but also functions Seamlessly.</li>
         <li>
-        • Qualified in making flexible, reliable, affordable, and tailored CMS and CRM solutions facilitating easy website maintenance and streamlined content updates with Web Cryptographic Standard to ensure the safety and security of application.</li>
+        Qualified in making flexible, reliable, affordable, and tailored CMS and CRM solutions facilitating easy website maintenance and streamlined content updates with Web Cryptographic Standard to ensure the safety and security of application.</li>
         <li>
-        • My Designs are Eye-catching and Stylish but also Represent client's / company's Brand Efficiently and deliver messages effortlessly.</li>
+        My Designs are Eye-catching and Stylish but also Represent client's / company's Brand Efficiently and deliver messages effortlessly.</li>
         <li>
-        • Having a deep understanding of user experience design and the prototyping process with variety of techniques to create interactive, high-fidelity prototypes that accurately represent the intended design of a product.</li>
+        Having a deep understanding of user experience design and the prototyping process with variety of techniques to create interactive, high-fidelity prototypes that accurately represent the intended design of a product.</li>
         <li>
-        • Efficient in creating effective and impactful strategies and designs for Email marketing by Creating detailed and value-adding content with impactful Visual Design.</li>
+        Efficient in creating effective and impactful strategies and designs for Email marketing by Creating detailed and value-adding content with impactful Visual Design.</li>
         <li>
-        • Proficient in designing and editing professional-level PowerPoint presentations.</li>
+        Proficient in designing and editing professional-level PowerPoint presentations.</li>
         <li>
-        • Efficient in visualizing your data in graphs, charts, and maps helps users identify patterns and thereby develop actionable insights. These insights will help the organization to make better, data-driven decisions.</li>
+        Efficient in visualizing your data in graphs, charts, and maps helps users identify patterns and thereby develop actionable insights. These insights will help the organization to make better, data-driven decisions.</li>
     </ul>
 
    
