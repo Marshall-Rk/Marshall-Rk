@@ -1,3 +1,5 @@
+<style>#more {display: none;}
+</style>
 <h1 align="center">I'm Rajkamal Gautam</h1>
 <h3 align="justify" style="font-size:16px;font-weight: lighter;">
     <ul>
@@ -7,6 +9,10 @@
         I make Fluid and Interactive Websites & Web applications that are tailor-made for all business needs. I make sure that it not only looks Flawless but also functions Seamlessly.</li>
         <li>
         Qualified in making flexible, reliable, affordable, and tailored CMS and CRM solutions facilitating easy website maintenance and streamlined content updates with Web Cryptographic Standard to ensure the safety and security of application.</li>
+
+        <span id="dots">...</span>
+        <span id="more">
+
         <li>
         My Designs are Eye-catching and Stylish but also Represent client's / company's Brand Efficiently and deliver messages effortlessly.</li>
         <li>
@@ -17,9 +23,25 @@
         Proficient in designing and editing professional-level PowerPoint presentations.</li>
         <li>
         Efficient in visualizing your data in graphs, charts, and maps helps users identify patterns and thereby develop actionable insights. These insights will help the organization to make better, data-driven decisions.</li>
+    </span>
+    <button onclick="myFunction()" id="myBtn">Read more</button>
     </ul>
 
-   
+   <script>function myFunction() {
+    var dots = document.getElementById("dots");
+    var moreText = document.getElementById("more");
+    var btnText = document.getElementById("myBtn");
+  
+    if (dots.style.display === "none") {
+      dots.style.display = "inline";
+      btnText.innerHTML = "Read more";
+      moreText.style.display = "none";
+    } else {
+      dots.style.display = "none";
+      btnText.innerHTML = "Read less";
+      moreText.style.display = "inline";
+    }
+  }</script>
 
 </h3>
 
