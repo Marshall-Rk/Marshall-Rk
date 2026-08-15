@@ -18,10 +18,6 @@
     <li>
         M.Sc. Computer Science – Gold Medalist &amp; 1st Rank, University of Mumbai | 1st Rank in Graphic Design | Hackathon Runner-up.</li>
 </ul>
-
-
-   
-
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshall-rk&label=Profile%20views&color=0e75b6&style=flat" alt="marshall-rk" /> </p>
@@ -30,14 +26,14 @@
 
 <p align="left"> <a href="https://twitter.com/marshall_rk" target="blank"><img src="https://img.shields.io/twitter/follow/marshall_rk?logo=twitter&style=for-the-badge" alt="marshall_rk" /></a> </p>
 
-- All of my projects are available at <a href="https://www.linkedin.com/in/rajkamalgautam/">CLick Here</a>
+- All of my projects are available at <a href="https://nextgenpixel.co.in" target="_blank">nextgenpixel.co.in</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marshall_rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marshall_rk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajkamalgautam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajkamalgautam/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nextgenpixel-100632958782657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nextgenpixel-100632958782657" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nextgenpixel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nextgenpixel/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajkamalgautam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkamalgautam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nextgenpixel-100632958782657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nextgenpixel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nextgenpixel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nextgenpixel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
