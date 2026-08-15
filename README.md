@@ -1,23 +1,24 @@
 <h1 align="center">I'm Rajkamal Gautam</h1>
 <h3 align="justify" style="font-size:16px;font-weight: lighter;">
-    <ul>
-        <li>
-        Executive Web Developer & Graphic Designer with 2.7 years of previous experience in the field, profound UI/UX Designer, Email / Social Media marketer & Power BI Data Analyst.</li>
-        <li>
-        I make Fluid and Interactive Websites & Web applications that are tailor-made for all business needs. I make sure that it not only looks Flawless but also functions Seamlessly.</li>
-        <li>
-        Qualified in making flexible, reliable, affordable, and tailored CMS and CRM solutions facilitating easy website maintenance and streamlined content updates with Web Cryptographic Standard to ensure the safety and security of application.</li>
-        <li>
-        My Designs are Eye-catching and Stylish but also Represent client's / company's Brand Efficiently and deliver messages effortlessly.</li>
-        <li>
-        Having a deep understanding of user experience design and the prototyping process with variety of techniques to create interactive, high-fidelity prototypes that accurately represent the intended design of a product.</li>
-        <li>
-        Efficient in creating effective and impactful strategies and designs for Email marketing by Creating detailed and value-adding content with impactful Visual Design.</li>
-        <li>
-        Proficient in designing and editing professional-level PowerPoint presentations.</li>
-        <li>
-        Efficient in visualizing your data in graphs, charts, and maps helps users identify patterns and thereby develop actionable insights. These insights will help the organization to make better, data-driven decisions.</li>
-    </ul>
+<ul>
+    <li>
+        Software Solution Developer &amp; AI Engineer with 5+ years of professional experience, specializing in full-stack software development, AI/ML engineering, application security, and scalable software architectures.</li>
+    <li>
+        I design and deliver secure, production-ready software solutions using PHP, Laravel, React, Python, Node.js, and Flask, including CMS/CRM platforms, HRMS, SaaS products, event systems, and membership portals.</li>
+    <li>
+        I build and deploy AI/ML solutions including RAG-based chatbots, ML prediction dashboards, and NLP pipelines using FAISS, BM25, Scikit-learn, TensorFlow, and Hugging Face, with a focus on reliable and production-ready AI systems.</li>
+    <li>
+        Security is embedded into my development approach. I implement secure authentication, AES-256-GCM encryption, API security, rate limiting, IP tracking, honeypot mechanisms, and cryptographic standards to protect applications and AI endpoints.</li>
+    <li>
+        Experienced in integrating payment gateways, WhatsApp OTP/2FA, and third-party APIs using secure integration practices, ensuring every system is functional, scalable, and protected.</li>
+    <li>
+        Strong UI/UX and graphic design expertise, creating intuitive interfaces, visual systems, branding, and digital assets that effectively complement the products and solutions I build.</li>
+    <li>
+        Guest Lecturer and Speaker at colleges and international conferences, sharing knowledge and practical insights on AI, software engineering, application security, and emerging technologies.</li>
+    <li>
+        M.Sc. Computer Science – Gold Medalist &amp; 1st Rank, University of Mumbai | 1st Rank in Graphic Design | Hackathon Runner-up.</li>
+</ul>
+
 
    
 
@@ -29,7 +30,7 @@
 
 <p align="left"> <a href="https://twitter.com/marshall_rk" target="blank"><img src="https://img.shields.io/twitter/follow/marshall_rk?logo=twitter&style=for-the-badge" alt="marshall_rk" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="http://bit.ly/nextgenpixel">http://bit.ly/nextgenpixel</a>
+- All of my projects are available at <a href="https://www.linkedin.com/in/rajkamalgautam/">CLick Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
